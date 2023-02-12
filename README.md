@@ -1,4 +1,4 @@
-# SecurityFoscusOnline2023 上課資訊
+# SecurityFoscusOnline2023 上課資訊 mod by
 # 上課模式
 - 請務必先聽完如何使用本課程與相關規範
 - 本課程採兩種模式進行:(1)預錄模式 (2)Google Meet線上直播模式
